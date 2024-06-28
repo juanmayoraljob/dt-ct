@@ -1,4 +1,4 @@
-# CT - Prueba Tecnica.
+# CT - Prueba Técnica.
 
 ## Prueba 1 - Diagrama de Red
 Diagrama arquitectura de red utilizada para la implementación.
@@ -7,7 +7,7 @@ Diagrama arquitectura de red utilizada para la implementación.
 
 ## Prueba 2 - Despliegue de una aplicación Django y React.js
 Esta prueba describe los pasos necesarios para desplegar una aplicación web usando Django en el backend y React.js en el frontend.
-En ambiente local y en un cluster de EKS.
+En ambiente local y en un clúster de EKS.
 
 [Prueba 2](prueba-2/README.md)
 
