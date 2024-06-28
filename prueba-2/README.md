@@ -62,8 +62,8 @@ docker push <account-id>.dkr.ecr.us-west-2.amazonaws.com/react:latest
 >[!IMPORTANT]
 > Previously we must encrypt our secret with [kubeseal](https://github.com/bitnami-labs/sealed-secrets).
 ```
-kubectl apply -f 01-sealed-secret.yaml
-kubectl apply -f 02-pvc.yaml
-kubectl apply -f 03-backend-deployment.yaml
-kubectl apply -f 04-frontend-deployment.yaml
+kubectl apply -f prueba-2/kubernetes/01-sealed-secret.yaml
+kubectl apply -f prueba-2/kubernetes/02-pvc.yaml
+kubectl apply -f prueba-2/kubernetes/03-backend-deployment.yaml
+kubectl apply -f prueba-2/kubernetes/04-frontend-deployment.yaml
 ```
