@@ -46,24 +46,6 @@
 
 ### CD
 
-1. Solo se ejecuta en la rama master.
-
-2. Clona el código.
-
-3. Configura credenciales de AWS.
-
-4. Auténtica en ECR.
-
-5. Actualiza la imagen de nuestro deployment.
-   
-6. Contruye la imagen y la sube a nuestra registry.
-
-  
-
----
-
-### CD
-
 1. Solo se ejecuta en la branch master.
 
 2. Clona el codigo.
